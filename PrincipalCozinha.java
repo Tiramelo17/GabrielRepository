@@ -1,6 +1,7 @@
 
 public class PrincipalCozinha {
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		Cozinha min = new Cozinha(14, 20, "feijoada");
 		Ingrediente I1,I2,I3,I4,I5;
